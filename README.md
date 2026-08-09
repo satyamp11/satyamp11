@@ -1,24 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Satyam Paswan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=SATYAM%20PASWAN&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Builder%20%E2%80%A2%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyam+Paswan+%F0%9F%91%8B;IT+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Learning+Something+New+Every+Day+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
+
+<br/>
 
 ### 💻 IT Engineering Student • Full-Stack Developer • Builder • Learner
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=SATYAM%20PASWAN&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Building%20•%20Learning%20•%20Improving&descAlignY=60&descSize=18" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 I build real projects to learn real engineering.
-
-I'm an IT Engineering student passionate about **Full-Stack Development, UI/UX, and building practical software**.
-
-I believe in:
-
-**Build → Break → Debug → Learn → Improve → Repeat.**
+<p>
+  <a href="https://github.com/satyamp11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/satyamp11/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://satyampaswan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -26,117 +30,53 @@ I believe in:
 
 ## 🧑‍💻 About Me
 
-- 🎓 IT Engineering Student
-- 💻 Learning Full-Stack Web Development
-- 🚀 Building real-world applications
-- 🌐 Interested in modern web technologies
-- 🧠 Learning by solving real problems
-- 🎨 Interested in UI/UX and product design
-- ☁️ Exploring deployment and production systems
-- 📚 Continuously improving my programming fundamentals
-- 🎯 Focused on becoming a better software developer every day
+I'm an **IT Engineering student** passionate about software development, modern web technologies, UI/UX, and building practical applications.
 
-> I'm not trying to know everything.
-> I'm trying to understand something new every day.
+I learn primarily by building real projects and solving real problems.
+
+> **Build → Break → Debug → Learn → Improve → Repeat.**
+
+I'm still learning, and that's exactly what makes development exciting for me.
+
+Every project teaches me something new — from frontend development and backend APIs to databases, authentication, deployment, debugging, and production configuration.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### 💻 Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
-
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
 </p>
 
 ### 🛠️ Backend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 </p>
 
 ### 🗄️ Database & Services
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb" />
-
 </p>
 
 ### ☁️ Tools & Deployment
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,render" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,render,vercel" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏋️ Gym Management System
-
-A full-stack gym management platform designed to help manage essential gym operations.
-
-### Features
-
-- 👥 Member Management
-- 💳 Payment Management
-- 🔐 Authentication & Registration
-- 📧 Email OTP Verification
-- 🗄️ MongoDB Integration
-- 🔌 REST APIs
-- ☁️ Production Deployment
-
-### Tech
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT` `Resend` `Git` `GitHub` `Render`
-
----
-
-## 🚆 RailYatra
-
-A modern railway-focused platform designed around journey information and an interactive user experience.
-
-### Focus
-
-- 🚆 Train information
-- 📍 Journey visualization
-- 🚉 Station information
-- 🌦️ Weather information
-- 📊 Interactive data
-- 📱 Responsive UI
-
----
-
-## 🧠 Quizzy
-
-A real-time quiz platform focused on interactive multiplayer experiences.
-
-### Focus
-
-- 🧠 Live quizzes
-- 🏆 Leaderboards
-- ⚡ Real-time interaction
-- 📊 Live results
-- 👥 Multiplayer experience
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -148,45 +88,57 @@ A real-time quiz platform focused on interactive multiplayer experiences.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=satyamp11&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=satyamp11&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamp11&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamp11&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+## 🛠️ What I'm Working On
+
+- 🌐 Building full-stack web applications
+- ⚛️ Improving React & Next.js skills
+- 🟢 Learning deeper backend development
+- 🍃 Improving MongoDB & database design
+- 🔐 Understanding authentication & security
+- ☁️ Learning production deployment
+- 🧩 Improving software architecture
+- 🧠 Strengthening problem-solving skills
+- 🎨 Improving UI/UX design
+- 📚 Learning something new every day
+
+---
+
+## 🧠 My Development Philosophy
+
+> **Tutorials can teach you syntax.  
+> Projects teach you engineering.**
+
+When I build something, I try to understand:
 
 ```text
-JavaScript
-    ↓
-TypeScript
-    ↓
-React / Next.js
-    ↓
-Node.js / Express
-    ↓
-MongoDB
-    ↓
-Authentication & Security
-    ↓
-REST APIs
-    ↓
-Deployment
-    ↓
-System Design
-    ↓
-Scalable Applications
+How does it work?
+       ↓
+Why does it work?
+       ↓
+What happens when it breaks?
+       ↓
+How do I debug it?
+       ↓
+How can I improve it?
+       ↓
+How would I scale it?
