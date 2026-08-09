@@ -1,5 +1,5 @@
 <div align="center">
-
+<a href="https://git.io/typing-svg">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=SATYAM%20PASWAN&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Builder%20%E2%80%A2%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
