@@ -1,144 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=SATYAM%20PASWAN&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Builder%20%E2%80%A2%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
-
-<br/>
+<!-- ===================================================== -->
+<!-- TOP TYPING ANIMATION -->
+<!-- ===================================================== -->
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyam+Paswan+%F0%9F%91%8B;IT+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Learning+Something+New+Every+Day+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satyam+Paswan+%F0%9F%91%8B;IT+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Designer+%26+Developer+%F0%9F%8E%A8;Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%A7%A0"
+    alt="Typing Animation"
+  />
 </a>
 
 <br/>
 
-### 💻 IT Engineering Student • Full-Stack Developer • Builder • Learner
+<!-- ===================================================== -->
+<!-- HERO BANNER -->
+<!-- ===================================================== -->
 
-<p>
-  <a href="https://github.com/satyamp11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satyamp11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://satyampaswan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1e3a8a,75:2563eb,100:06b6d4&height=230&section=header&text=SATYAM%20PASWAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20%E2%80%A2%20LEARNING%20%E2%80%A2%20IMPROVING&descAlignY=58&descSize=17&animation=fadeIn"
+  width="100%"
+  alt="Satyam Paswan Banner"
+/>
 
-</div>
+<br/>
 
----
+<!-- ===================================================== -->
+<!-- INTRO -->
+<!-- ===================================================== -->
 
-## 🧑‍💻 About Me
+### 💻 IT Engineering Student • Full-Stack Developer • Designer • Builder
 
-I'm an **IT Engineering student** passionate about software development, modern web technologies, UI/UX, and building practical applications.
+<br/>
 
-I learn primarily by building real projects and solving real problems.
+<a href="https://github.com/satyamp11">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-> **Build → Break → Debug → Learn → Improve → Repeat.**
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I'm still learning, and that's exactly what makes development exciting for me.
-
-Every project teaches me something new — from frontend development and backend APIs to databases, authentication, deployment, debugging, and production configuration.
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### 🛠️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database & Services
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### ☁️ Tools & Deployment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,render,vercel" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=satyamp11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamp11&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 ---
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=satyamp11&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamp11&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
----
-
-## 🛠️ What I'm Working On
-
-- 🌐 Building full-stack web applications
-- ⚛️ Improving React & Next.js skills
-- 🟢 Learning deeper backend development
-- 🍃 Improving MongoDB & database design
-- 🔐 Understanding authentication & security
-- ☁️ Learning production deployment
-- 🧩 Improving software architecture
-- 🧠 Strengthening problem-solving skills
-- 🎨 Improving UI/UX design
-- 📚 Learning something new every day
-
----
-
-## 🧠 My Development Philosophy
-
-> **Tutorials can teach you syntax.  
-> Projects teach you engineering.**
-
-When I build something, I try to understand:
-
-```text
-How does it work?
-       ↓
-Why does it work?
-       ↓
-What happens when it breaks?
-       ↓
-How do I debug it?
-       ↓
-How can I improve it?
-       ↓
-How would I scale it?
