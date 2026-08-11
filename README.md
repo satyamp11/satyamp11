@@ -1,11 +1,13 @@
 <div align="center">
+
 <a href="https://git.io/typing-svg">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=SATYAM%20PASWAN&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Builder%20%E2%80%A2%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0909,50:3A1111,100:8B2E24&height=220&section=header&text=SATYAM%20PASWAN&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Builder%20%E2%80%A2%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+</a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyam+Paswan+%F0%9F%91%8B;IT+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Learning+Something+New+Every+Day+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=1000&color=E05A43&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyam+Paswan+%F0%9F%91%8B;IT+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Learning+Something+New+Every+Day+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,13 +16,13 @@
 
 <p>
   <a href="https://github.com/satyamp11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-171111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/satyamp11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8B2E24?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://satyampaswan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-3A1111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -80,9 +82,9 @@ Every project teaches me something new — from frontend development and backend
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=satyamp11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=satyamp11&show_icons=true&bg_color=0B0909&title_color=E05A43&text_color=F5F5F5&icon_color=E05A43&border_color=3A1111&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamp11&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamp11&layout=compact&bg_color=0B0909&title_color=E05A43&text_color=F5F5F5&icon_color=E05A43&border_color=3A1111" />
 
 </div>
 
@@ -92,7 +94,7 @@ Every project teaches me something new — from frontend development and backend
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=satyamp11&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=satyamp11&background=0B0909&border=3A1111&ring=E05A43&fire=E05A43&currStreakLabel=E05A43&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=A99A96&hide_border=false&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -102,7 +104,7 @@ Every project teaches me something new — from frontend development and backend
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamp11&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="GitHub Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamp11&bg_color=0B0909&color=F5F5F5&line=E05A43&point=FFFFFF&area_color=3A1111&area=true&hide_border=true&radius=10" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
